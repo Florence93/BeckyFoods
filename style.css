@@ -1,0 +1,29 @@
+body{ padding: 0; margin:0; background-color: darkgray; } @media only screen and
+(max-width: 768px) {   /* For mobile phones: */   [class*="col-"] {     width: 100%;
+  } } .navbar { background:burlywood; } .nav-link, .navbar-brand { color: #fff;
+cursor: pointer; } .nav-link { margin-right: 1em !important; } .nav-link:hover
+{ color: #000; } .navbar-collapse { justify-content: center; } .input{ margin-right:
+100%; } .carousel{ background: #f2f6e9; height: 40%; } .carousel-item{ text-align:
+center; min-height: 280px; /* Prevent carousel from being distorted if for some
+reason image doesn't load */ } .bs-example{ margin: 20px; } .features { margin:
+4em auto; padding: 1em; position: relative; } .feature-title { color: burlywood;
+font-size: 1.3rem; font-weight: 700; margin-bottom: 20px; text-transform: uppercase;
+} .features img { -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4); -moz-box-shadow:
+1px 1px 4px rgba(0, 0, 0, 0.4); box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4); margin-bottom:
+16px; } .features .form-control, .features input { border-radius: 0; } .features
+.btn { background-color: burlywood; border: 1px solid burlywood; color: #fff; margin-top:
+20px; } .features .btn:hover { background-color: #333; border: 1px solid #333;
+} .feature-title2 { color: burlywood; } .ex2 { width: 70%; height: 50%; } .container
+{ background-color: lightgray; } .page-footer { background-color: #333; color:
+#ccc; padding: 60px 0 30px; } /* design for the footer*/ .footer-copyright { color:
+lightgray; padding: 40px 0; } .ex3 a { color: #000; } .btn1{ background-color:
+burlywood; color: burlywood; } .btn a{ color: #fff; text-decoration: none; } .page-footer
+a{ color: #fff; text-decoration: none; } .ex3{ background-color: #000; }
+<!--
+Visual Code Mobile
+Developed By Manish Nirmal
+App Available on Play Store :-
+https://play.google.com/store/apps/details?id=lk.visual.code.mobile
+YouTube :-
+https://youtube.com/ManishNirmal
+-->
